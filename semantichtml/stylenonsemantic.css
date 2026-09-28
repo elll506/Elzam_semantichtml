@@ -1,0 +1,41 @@
+/* Header */
+.header {
+    background-color:blue;
+    color:bisque;
+    text-align: center;
+    padding: 30px;
+}
+/* Menu */
+.menu {
+background-color: chocolate;
+color:aquamarine;
+text-align: center;
+}
+.menu a {
+color: crimson;
+text-decoration: none;
+margin: 0 15px;
+}
+/*Content */
+.content {
+    background-color: azure;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
+/* Informasi */
+.info {
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 20px;
+    border-left: 5px solid;
+}
+/* Footer */
+.footer {
+    background-color: blue;
+    color:cyan;
+    text-align: center;
+    padding: 15px;
+
+    
+}
